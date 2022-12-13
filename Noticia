@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roger Federer crashes out</title>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="https://play-lh.googleusercontent.com/iBoErESwdNDQkffx5s27RvyoWJnbikGo56zcFr9aYnk_PpBIlAmBLjkPVpCWEjdDDJ1O" width="20" alt="logo Marca">
+            <a href="">Sports>Tenis>Federer</a>
+        </div>
+    </header>
+    <main>
+        <article>
+            <h1>Roger Federer crashes out of Australian open in four-set loss to Stephanos Tsisipas</h1>
+            <h3>The swiss champion bowed out...</h3>
+            <!-- Compartir la noticia -->
+            <section>
+                <a href="" alt="facebook">Facebook</a>
+                <a href="" alt="twitter">Twitter</a>
+                <a href="" alt="linkdn">Linkdn</a>
+                <a href="" alt="email">Email</a>
+            </section>
+            <!-- Comentarios a la noticia -->
+            <section>
+                <a href="" alt="Comentarios">Comentarios</a>
+            </section>
+            <p>By Mark Jones</p>
+            <p>12:17, Jan,20,2020</p>
+            <!-- Video de la noticia -->
+            <section>
+                <video src="video.mp4"></video>
+            </section>
+            <div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                
+            </p>
+            </div>
+            <img src="https://www.eltiempo.com/files/image_640_428/uploads/2021/08/07/610e89705116b.jpeg" alt="Roger Federer" width="500px">
+            <div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                
+            </p>
+            </div>
+            <img src="https://canaltenis.com/wp-content/uploads/2022/03/Tsitsipas.jpg" width="500px" alt="Tisipas">
+            <div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, nesciunt iusto maiores iure similique odit laudantium tenetur ipsam quos excepturi cumque eveniet, dolorem, beatae sit harum possimus quidem quasi explicabo.
+                
+            </p>
+            </div>
+        </article>
+            <!-- Noticias recomendadas -->
+            <aside>
+                <h3>Recommended</h3>
+                <p><a href="">Story 1</a></p>
+                <p><a href="">Story 2</a></p>
+                <p><a href="">Story 3</a></p>
+            </aside>
+        <!-- Redes y newsletter -->
+        <footer>
+            <div>
+                <h6>
+                <a href="">Facebook</a>
+                <a href="">Twitter</a>
+                <a href="">Newsletter</a>
+                </h6>
+            </div>
+        </footer>
+    </main>
+</body>
+</html>
